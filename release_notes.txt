@@ -1,2 +1,3 @@
 This is for release
 Some bug fixed
+Some other bug fixed
