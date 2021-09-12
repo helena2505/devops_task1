@@ -1,4 +1,2 @@
-Hello, world!
-Hello, world
-Helo, world!
-something
+Some new feature
+Rewite
